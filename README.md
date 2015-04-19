@@ -1,6 +1,11 @@
 # CloudComputingProject
 Analyse census and university data-sets to identify the university as to how well serves the community
 
+Team members: 
+Shambhangoudar, Pratibha V     PVS10@pitt.edu 
+Osterritter, Luke              luo4@pitt.edu 
+Bian, Dalun                    dab217@pitt.edu 
+
 There are 5 MapReduce java program and one regular java program
 make sure hadoop 2.6.0 and jdk 1.7 are installed and properly configured
 MapReduce program:
